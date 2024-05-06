@@ -1,0 +1,3 @@
+AccNo,Date,MainDesc,AddDesc,TransactionType,Amount,Balance,SpendCategory,Currency,Description
+1234,2021-01-01,Test Description,,Credit,100.00,500.00,Category,USD,
+5678,2021-01-02,Another Description,,Debit,-50.00,450.00,Category,USD,
